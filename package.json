@@ -1,0 +1,28 @@
+{
+  "name": "pollen-transmit",
+  "version": "1.0.2",
+  "description": "Fully offline, zero-internet, peer-to-peer epidemic routing CLI messenger",
+  "main": "src/daemon/index.js",
+  "bin": {
+    "pollen": "bin/pollen.js"
+  },
+  "scripts": {
+    "start": "node bin/pollen.js start"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.6.2",
+    "commander": "^12.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "p2p",
+    "mesh",
+    "offline",
+    "dtn",
+    "epidemic-routing",
+    "cli"
+  ],
+  "license": "MIT"
+}
