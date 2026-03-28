@@ -3,7 +3,7 @@
 > Fully offline, zero-internet, peer-to-peer messenger.
 > Messages spread like a virus through human movement. No servers. No cloud. Just people carrying bytes.
 
-You know how the plague spread across medieval Europe? Person to person, city to city, through nothing but human contact? Yeah, Pollen does that — but with your encrypted messages, and hopefully with less death involved.
+You know how the plague spread across medieval Europe? Person to person, city to city, through nothing but human contact? Yeah, Pollen does that but with your encrypted messages, and hopefully with less death involved.
 
 ---
 
@@ -31,7 +31,7 @@ Because sometimes the internet just... isn't there. Natural disasters. Authorita
 
 Pollen implements **Epidemic Routing**, a real protocol from Delay-Tolerant Networking (DTN) research — the same class of protocols NASA uses to communicate with spacecraft millions of miles away. If it's good enough for Mars, it's good enough for your group chat.
 
-The idea is simple: your message copies itself to every Pollen user nearby. They walk away, go to a coffee shop, an airport, another city — and their device spreads it further. Eventually, someone physically encounters the recipient, and the message delivers itself. All encrypted. All automatic. Zero internet at any point.
+The idea is simple: your message copies itself to every Pollen user nearby. They walk away, go to a coffee shop, an airport, another city and their device spreads it further. Eventually, someone physically encounters the recipient, and the message delivers itself. All encrypted. All automatic. Zero internet at any point.
 
 **Think of it as WhatsApp if WhatsApp had to survive the apocalypse.**
 
