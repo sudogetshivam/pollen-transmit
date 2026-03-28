@@ -180,7 +180,6 @@ pollen stop
 | `pollen send <identity> "<message>"` | Send an end-to-end encrypted message. |
 | `pollen status <messageId>` | Track a message's delivery journey. |
 | `pollen sync` | Force an immediate epidemic exchange with all known peers. |
-| `pollen file <identity> <filepath>` | Send a file via epidemic routing. |
 | `pollen --version` | Print the installed version. |
 | `pollen --help` | Show all available commands. |
 
@@ -202,7 +201,7 @@ pollen-transmit/
     │       ├── send.js         # Encrypt and queue a message
     │       ├── status.js       # Query message delivery status
     │       ├── sync.js         # Trigger manual epidemic exchange
-    │       └── file.js         # File transfer command
+    │       
     ├── identity/
     │   └── index.js            # Username + shortID generation (e.g., alice@f7a2)
     ├── crypto/
