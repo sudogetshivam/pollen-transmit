@@ -27,7 +27,7 @@ You know how the plague spread across medieval Europe? Person to person, city to
 
 ## Why Does This Exist?
 
-Because sometimes the internet just... isn't there. Natural disasters. Authoritarian shutdowns. That one corner of your college campus where WiFi goes to die. Remote villages. Underground bunkers (no judgment).
+Because sometimes the internet just... you know its isn't there. Natural disasters. Authoritarian shutdowns. That one corner of your college campus where WiFi goes to die. Remote villages. Underground bunkers (no judgment).
 
 Pollen implements **Epidemic Routing**, a real protocol from Delay-Tolerant Networking (DTN) research — the same class of protocols NASA uses to communicate with spacecraft millions of miles away. If it's good enough for Mars, it's good enough for your group chat.
 
